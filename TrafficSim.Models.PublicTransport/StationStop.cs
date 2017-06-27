@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AdvancedTrafficSim.Models.PublicTransport
+namespace TrafficSim.Models.PublicTransport
 {
     public class StationStop
     {

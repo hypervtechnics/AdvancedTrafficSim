@@ -1,4 +1,4 @@
-﻿namespace AdvancedTrafficSim.Models.PublicTransport
+﻿namespace TrafficSim.Models.PublicTransport
 {
     public enum VehicleType
     {
