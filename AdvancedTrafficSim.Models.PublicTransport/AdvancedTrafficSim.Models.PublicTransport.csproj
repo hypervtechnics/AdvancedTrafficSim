@@ -41,9 +41,21 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Coordinates3D.cs" />
+    <Compile Include="DirectionType.cs" />
+    <Compile Include="DutyRota.cs" />
+    <Compile Include="Line.cs" />
+    <Compile Include="LineRoute.cs" />
+    <Compile Include="LineRun.cs" />
+    <Compile Include="Platform.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Schedule.cs" />
     <Compile Include="ScheduleItem.cs" />
     <Compile Include="ScheduleTime.cs" />
+    <Compile Include="Station.cs" />
+    <Compile Include="StationStop.cs" />
+    <Compile Include="Track.cs" />
+    <Compile Include="Vehicles.cs" />
+    <Compile Include="VehicleType.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
