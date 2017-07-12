@@ -23,4 +23,4 @@ After the first official beta release we will setup a homepage. There you can fi
 
 # Collaborators needed
 
-As you can imagine this is a lot of work to do. So we ask for your help. If you can program in C# or C++ you may help us develop such a huge project. Just write a private message to one of the collaborators. It would be great if also some game developers (those who have this as main job) or other experienced people join us.
+As you can imagine this is a lot of work to do. So we ask for your help. If you can program in C# or C++ you may help us develop such a huge project. Just write a private message to hypervtechnics. It would be great if also some game developers (those who have this as main job) or other experienced people join us.
