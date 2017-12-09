@@ -2,7 +2,8 @@
 
 namespace AdvancedTrafficSim.Data.Model.Surface
 {
-    public class Class1
+    public class TriangulatedIrregularNetwork
     {
+
     }
 }
