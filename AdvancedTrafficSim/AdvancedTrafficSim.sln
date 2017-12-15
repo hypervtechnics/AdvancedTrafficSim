@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2010
+VisualStudioVersion = 15.0.27130.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{6013C240-D23C-4A43-B92F-585FDAD3529E}"
 EndProject
@@ -19,7 +19,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvancedTrafficSim.Data.Mod
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Plugins", "Plugins", "{D4EC4CD3-8491-4B4B-8F9B-DA73EFF9B9DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedTrafficSim.Data.Model.Map", "AdvancedTrafficSim.Data.Model.Map\AdvancedTrafficSim.Data.Model.Map.csproj", "{5A2C61B9-16D2-4DCD-8DF1-1F9F37907361}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvancedTrafficSim.Data.Model.Map", "AdvancedTrafficSim.Data.Model.Map\AdvancedTrafficSim.Data.Model.Map.csproj", "{5A2C61B9-16D2-4DCD-8DF1-1F9F37907361}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{8B3D48DE-880A-4018-9AD4-869A357B130A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IO", "IO", "{33DD5975-99B4-477D-AA09-8CA44ED8EEA6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Logic", "Logic", "{567B1A3E-4B77-441D-B104-9E3BB3209DFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedTrafficSim.Data.Model.Vehicles", "AdvancedTrafficSim.Data.Model.Vehicles\AdvancedTrafficSim.Data.Model.Vehicles.csproj", "{8FAF0833-DD87-43FD-AF56-674214AC15B8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Network", "Network", "{55CE9A4A-F066-4129-AD3C-04BD70696610}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,6 +57,10 @@ Global
 		{5A2C61B9-16D2-4DCD-8DF1-1F9F37907361}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A2C61B9-16D2-4DCD-8DF1-1F9F37907361}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A2C61B9-16D2-4DCD-8DF1-1F9F37907361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FAF0833-DD87-43FD-AF56-674214AC15B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FAF0833-DD87-43FD-AF56-674214AC15B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FAF0833-DD87-43FD-AF56-674214AC15B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FAF0833-DD87-43FD-AF56-674214AC15B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -59,6 +73,9 @@ Global
 		{0027443D-86D9-4D32-B901-93357754C268} = {6013C240-D23C-4A43-B92F-585FDAD3529E}
 		{F34B9A9C-AC64-41BD-925F-1CD8CCDC8B8B} = {3EA6A497-E845-4680-B282-FA2751E9E70F}
 		{5A2C61B9-16D2-4DCD-8DF1-1F9F37907361} = {3EA6A497-E845-4680-B282-FA2751E9E70F}
+		{33DD5975-99B4-477D-AA09-8CA44ED8EEA6} = {8B3D48DE-880A-4018-9AD4-869A357B130A}
+		{8FAF0833-DD87-43FD-AF56-674214AC15B8} = {3EA6A497-E845-4680-B282-FA2751E9E70F}
+		{55CE9A4A-F066-4129-AD3C-04BD70696610} = {8B3D48DE-880A-4018-9AD4-869A357B130A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4418BA04-14A8-4017-98B6-0E9EE05F40BA}
