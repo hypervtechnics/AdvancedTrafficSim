@@ -16,46 +16,46 @@ Main features:
 # Development of this project
 
 ## Next steps
-  - Data model
-    - Planning
-    - Implementation
-    - Testing
-  - Server architecture
-    - Planning
-    - Implementation
-    - Testing
-  - Network architecture
-	- Planning
-	- Implementation
-	- Testing
+  - [ ] Data model
+    - [ ] Planning
+    - [ ] Implementation
+    - [ ] Testing
+  - [ ] Server architecture
+    - [ ] Planning
+    - [ ] Implementation
+    - [ ] Testing
+  - [ ] Network architecture
+	- [ ] Planning
+	- [ ] Implementation
+	- [ ] Testing
 
 ## Then in parallel
-  - Converter
-    - Planning
-	- Collection of sources
-	- Implementation
-	- Testing
-  - Server
-	- Planning
-	- *(?) UI concept (?)*
-	- Implementation
-	- Testing
-  - Client
-	- Planning
-	- UI concept
-	- Modeling
-	- Implementation
-	- Testing
+  - [ ] Converter
+    - [ ] Planning
+	- [ ] Collection of sources
+	- [ ] Implementation
+	- [ ] Testing
+  - [ ] Server
+	- [ ] Planning
+	- [ ] *(?) UI concept (?)*
+	- [ ] Implementation
+	- [ ] Testing
+  - [ ] Client
+	- [ ] Planning
+	- [ ] UI concept
+	- [ ] Modeling
+	- [ ] Implementation
+	- [ ] Testing
 	
 ## Afterwards
-  - Add-Ons
-  - Services
+  - [ ] Add-Ons
+  - [ ] Services
   
 ## Somewhere in the future
-  - A website
-  - A redmine instance (Tracking progress of development and management of feature requests)
-  - Community place to share vehicles/mods/addons
-  - Other services around the application
+  - [ ] A website
+  - [ ] A redmine instance (Tracking progress of development and management of feature requests)
+  - [ ] Community place to share vehicles/mods/addons
+  - [ ] Other services around the application
 
 # Collaborators needed
 
