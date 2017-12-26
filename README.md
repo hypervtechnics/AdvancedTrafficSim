@@ -16,8 +16,8 @@ Main features:
 # Development of this project
 
 ## Next steps
-  - [ ] Data model
-    - [ ] Planning
+  - [ ] *Data model*
+    - [ ] *Planning*
     - [ ] Implementation
     - [ ] Testing
   - [ ] Server architecture
@@ -37,7 +37,7 @@ Main features:
 	- [ ] Testing
   - [ ] Server
 	- [ ] Planning
-	- [ ] *(?) UI concept (?)*
+	- [ ] (?) UI concept (?)
 	- [ ] Implementation
 	- [ ] Testing
   - [ ] Client
@@ -68,4 +68,4 @@ As you can imagine this is a lot of work to do. So we ask for **your help**. Jus
 - C++
 - Big data experience
 - Game engine experience
-- 3D modeling expereince
+- 3D modeling experience
