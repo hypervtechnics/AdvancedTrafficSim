@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvancedTrafficSim.Data.Pro
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Algorithms", "Algorithms", "{2C1CC49A-78C3-48E1-8CAB-854DB0850B6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedTrafficSim.Data.Model.Algorithms.Routing", "AdvancedTrafficSim.Data.Model.Algorithms.Routing\AdvancedTrafficSim.Data.Model.Algorithms.Routing.csproj", "{9732302B-8ECD-47A0-AC06-D185802201C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvancedTrafficSim.Data.Model.Algorithms.Routing", "AdvancedTrafficSim.Data.Model.Algorithms.Routing\AdvancedTrafficSim.Data.Model.Algorithms.Routing.csproj", "{9732302B-8ECD-47A0-AC06-D185802201C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Storage", "Storage", "{FE4CD6F0-12D1-40EF-867C-3FDBE91843D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,7 @@ Global
 		{53BD8821-1E34-477E-A602-AF7DC4F33EDB} = {0027443D-86D9-4D32-B901-93357754C268}
 		{2C1CC49A-78C3-48E1-8CAB-854DB0850B6A} = {3EA6A497-E845-4680-B282-FA2751E9E70F}
 		{9732302B-8ECD-47A0-AC06-D185802201C0} = {2C1CC49A-78C3-48E1-8CAB-854DB0850B6A}
+		{FE4CD6F0-12D1-40EF-867C-3FDBE91843D2} = {6013C240-D23C-4A43-B92F-585FDAD3529E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4418BA04-14A8-4017-98B6-0E9EE05F40BA}
