@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace AdvancedTrafficSim.Data.Model.Algorithms.Routing
+namespace AdvancedTrafficSim.Data.Model.Roads
 {
-    public class WayPoint
+    public class WayPointer
     {
 
     }
