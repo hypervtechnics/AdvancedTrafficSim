@@ -17,13 +17,13 @@ Main features:
 
 ## Next steps
   - [ ] *Data model*
-    	- [ ] *Planning*
-    	- [ ] Implementation
-    	- [ ] Testing
+    - [ ] *Planning*
+    - [ ] Implementation
+    - [ ] Testing
   - [ ] Server architecture
-    	- [ ] Planning
-    	- [ ] Implementation
-    	- [ ] Testing
+    - [ ] Planning
+    - [ ] Implementation
+    - [ ] Testing
   - [ ] Network architecture
 	- [ ] Planning
 	- [ ] Implementation
